@@ -1,7 +1,5 @@
 # ERC20 Faucet
 
-![HelloCashDApp Logo](https://raw.githubusercontent.com/username/repo/master/hellocashdapp-logo.png)
-
 A simple and flexible ERC20 token faucet with optional referral bonuses.
 
 ## Table of Contents
