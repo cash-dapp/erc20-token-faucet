@@ -1,6 +1,6 @@
 # ERC20 Faucet
 
-A simple and flexible ERC20 token faucet with optional referral bonuses.
+A simple, flexible & customizable ERC20 token faucet with optional referral system.
 
 ## Table of Contents
 
