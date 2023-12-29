@@ -64,6 +64,25 @@ The owner has control over various aspects of the faucet:
 - Withdrawing all funds from the faucet.
 - Pausing and resuming the faucet.
 
+## Contract in Use
+
+Explore the ERC20 Faucet on Etherscan (Optimism Network): [ERC20 Faucet on Etherscan](https://optimistic.etherscan.io/address/0x7d89945e58efb941c118d566946b995c0fbe5221)
+
+### Current Status
+
+You can view the contract's current status, including its balance, transaction history, and more on Etherscan.
+
+### Transactions
+
+Check the transaction history to see recent claims, withdrawals, and other interactions with the contract.
+
+### Contract Details
+
+Explore additional details about the contract, including its source code, contract ABI, and verified contract compiler versions.
+
+Feel free to interact with the contract on Etherscan to gain insights into its functionality and user interactions.
+
+
 ## Security Considerations
 
 - Deploy with caution and thoroughly review and test parameters before deployment.
